@@ -1,5 +1,5 @@
 Quickpay api is a pure python library to ingrate with the Quickpay(Online Payment).
-For more information regarding Quick Pay can be visit to http://doc.quickpay.dk/api.html.
+For more information regarding Quick Pay one can be visit to http://doc.quickpay.dk/api.html.
 The quickpayApi is fully based on the document provided by the Quickpay at the URL http://doc.quickpay.dk/api.html.
 
 
